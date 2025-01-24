@@ -10,6 +10,7 @@ const Page = () => {
   return (
     <div>
         <h1>Pocketbase Real-time Example</h1>
+        <br></br>
         <button onClick={onButtonClick}>Go to Real-time Example</button>
     </div>
   )
